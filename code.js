@@ -2,6 +2,7 @@ var frame = document.getElementById("frame");
 var graphics = frame.getContext("2d");
 
 document.addEventListener("mousedown", click);
+document.addEventListener("click", click);
 
 const FPS = 60;
 var points = 0;
