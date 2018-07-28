@@ -1,0 +1,41 @@
+body{
+	font-family: Helvetica;
+	background-color: #240966;
+	width: 80%;
+	padding: 10px;
+	margin: auto;
+	font-size: 20px;
+}
+
+#header{
+	background-color: #240966;
+	color:white;
+	text-align: center;
+	width: 1000px;
+	height: 300px;
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 30px
+}
+
+img{
+		width: 100%;
+		height:100%;
+		max-width: 1000px;
+		max-height: 600px;
+		display: block;
+		margin-bottom: 30px;#
+}
+
+
+#main{
+	text-indent: 50px
+	color: white;
+	max-width: 800px;
+	width: 100%;
+	float: left;
+	margin-bottom: 30px;
+}
+#footer{
+		clear: both;
+}		
